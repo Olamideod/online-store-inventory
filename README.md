@@ -105,15 +105,15 @@ This project provides an API for managing inventory items and suppliers in an on
     - Enter URL: `http://127.0.0.1:8000/api/items/` or `http://127.0.0.1:8000/api/suppliers/`
     - Click `Send`.
 
-# Documentation
+## Documentation
 
-## The API documentation provides detailed information on how to interact with the inventory and   supplier management system. Make sure to review the endpoint descriptions and request/response formats to effectively use the API.
+- The API documentation provides detailed information on how to interact with the inventory and   supplier management system. Make sure to review the endpoint descriptions and request/response formats to effectively use the API.
 
-## For further assistance, refer to the official Django and Django REST framework documentation.
+- For further assistance, refer to the official Django and Django REST framework documentation.
 
 ---
 
-## This `README.md` file covers the setup, API endpoints, and testing instructions using Postman, making it easier for anyone to understand and interact with your API.
+- This `README.md` file covers the setup, API endpoints, and testing instructions using Postman, making it easier for anyone to understand and interact with your API.
 
 
 
